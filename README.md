@@ -1,6 +1,8 @@
-# Simpe Coming Soon Page
+# Simple Coming Soon Page
 
-- DEMO : https://shoppie70.github.io/coming-soon-page/
+https://shoppie70.github.io/SimpleComingSoonPage/
+
+![](https://raw.githubusercontent.com/shoppie70/SimpleComingSoonPage/main/assets/img/preview.png)
 
 It's simple template with using `TailwindCSS`.  
 Please use for small improvement of SEO effect before site release.
